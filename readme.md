@@ -4,7 +4,7 @@
 
 > Think of it as your AI command-line co-pilot for linux commands — private, fast, and efficient.
 
----
+
 
 ## Features
 
@@ -14,7 +14,7 @@
 - **Lightweight**: Minimal dependencies and fast startup.
 - **Unix-Focused**: Tailored to understand and generate Unix-based commands.
 
----
+
 
 ## Installation
 
