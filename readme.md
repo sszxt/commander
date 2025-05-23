@@ -71,4 +71,6 @@ commander/
 Commander runs entirely locally. No commands, prompts, or data are sent to any server. It's your assistant, and your business stays yours.
 
 ## Contribution
-Commander leverages powerful open-source LLMs and tools, and we welcome your contributions — feel free to open an issue or pull request for bug reports, suggestions, or new features!
+Commander leverages powerful open-source LLMs and tools, and I welcome your contributions — feel free to open an issue or pull request for bug reports, suggestions, or new features!
+
+Developed by Mohamed Sameer.
