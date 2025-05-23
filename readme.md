@@ -21,7 +21,7 @@
 You can install Commander locally using `pip`:
 
 ```bash
-git clone https://github.com/yourusername/commander.git
+git clone https://github.com/sszxt/commander.git
 cd commander
 pip install .
 ```
