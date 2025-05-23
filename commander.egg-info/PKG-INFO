@@ -1,0 +1,18 @@
+Metadata-Version: 2.4
+Name: commander
+Version: 0.1
+Summary: Terminal AI Assistant using LoRA fine-tuned TinyLlama
+Author: Sam
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Requires-Dist: transformers
+Requires-Dist: torch
+Requires-Dist: peft
+Requires-Dist: accelerate
+Requires-Dist: safetensors
+Dynamic: author
+Dynamic: classifier
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
