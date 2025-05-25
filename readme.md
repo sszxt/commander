@@ -56,6 +56,9 @@ commander "how to list all open ports"
 assistant : sudo lsof -i -P -n | grep LISTEN
 ```
 
+![Screenshot](./screenshot.png)
+
+
 ## Project Structure
 ```bash
 commander/
