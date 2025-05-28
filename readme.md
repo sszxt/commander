@@ -25,7 +25,8 @@ git clone https://github.com/sszxt/commander.git
 cd commander
 pip install .
 ```
-### The lightweight LLM model previously used in this project has been removed from Hugging Face. I've switched to the TinyLlama 1.1B model as a replacement. While it may not be as fast or responsive as the earlier model, it should still get the job done. I'll try build a new model and will update it as soon as it's ready.
+### The lightweight LLM model previously used in this project has been removed from Hugging Face. I've switched to the TinyLlama 1.1B model as a replacement. While it may not be as fast or responsive as the earlier model, it should still get the job done. 
+### Fine-tuning will work on both the previous and the new TinyLlama model, so all customizations and improvements can continue seamlessly. I'll work on building a new model and will update it as soon as it's ready.
 
 ## Usage 
 
