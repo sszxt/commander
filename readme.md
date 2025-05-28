@@ -1,6 +1,6 @@
 # Commander - Your Terminal Assistant
 
-**Commander** is a lightweight, fully local Large Language Model (LLM)-powered terminal assistant. Designed for Unix systems, it lets you generate, explain, and run terminal commands through natural language — all from your terminal and without any need for cloud services or internet access.
+**Commander** is a lightweight, fully local fine-tuned Large Language Model (LLM)-powered terminal assistant. Designed for Unix systems, it lets you generate, explain, and run terminal commands through natural language — all from your terminal and without any need for cloud services or internet access.
 
 > Think of it as your AI command-line co-pilot for linux commands — private, fast, and efficient.
 
